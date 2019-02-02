@@ -94,6 +94,7 @@
 .menu-img{
     object-position: left center;
     object-fit: cover;
+    height:120px;
 }
     /*ニュース*/
     #news {
