@@ -84,9 +84,6 @@
     .hli-sub a {
         padding: 0 40px
     }
-    .top-img{
-    padding-top: 0px;
-}
 
     /*ニュース*/
     #news {
@@ -94,10 +91,6 @@
     }
     #news-box dt {
         float: none;
-    }
-#drink,#sweet,#food{
-        object-fit: cover;
-    object-position: left center;
     }
     /*メニュー*/
     #menu {
