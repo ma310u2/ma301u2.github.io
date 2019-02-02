@@ -103,8 +103,9 @@ a {
 .menu-img{
     padding-top: 80px;
 }
-#menu-img{
+img{
     max-width:100%;
+    height:auto;
 }
 /*ニュース*/
 #news {
