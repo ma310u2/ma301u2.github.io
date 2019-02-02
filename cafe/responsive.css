@@ -84,7 +84,17 @@
     .hli-sub a {
         padding: 0 40px
     }
+    img{
+        max-width: 100%;
+    }
+.top-img{
+    padding-top: 0px;
+}
 
+.menu-img{
+    object-position: left center;
+    object-fit: cover;
+}
     /*ニュース*/
     #news {
         padding-top: 60px;
