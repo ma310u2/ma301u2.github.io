@@ -104,7 +104,7 @@ a {
     padding-top: 80px;
 }
 #menu-img{
-    width:100%;
+    max-width:100%;
 }
 /*ニュース*/
 #news {
