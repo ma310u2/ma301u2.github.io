@@ -92,7 +92,10 @@
     #news-box dt {
         float: none;
     }
-
+#drink,#sweet,#food{
+        object-fit: cover;
+    object-position: left center;
+    }
     /*メニュー*/
     #menu {
         padding-top: 60px;
