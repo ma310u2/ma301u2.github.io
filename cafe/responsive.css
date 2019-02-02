@@ -84,6 +84,9 @@
     .hli-sub a {
         padding: 0 40px
     }
+    .top-img{
+    padding-top: 0px;
+}
 
     /*ニュース*/
     #news {
