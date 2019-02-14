@@ -7,7 +7,7 @@
 
 @media all and (max-width: 900px) {
     .menu-name {
-    width: 50%;
+    width: 65%;
 }
     header {
         position: static;
