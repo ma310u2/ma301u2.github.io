@@ -221,6 +221,10 @@ a {
     margin-bottom: 5px;
     font-weight: bold;
 }
+a#google-map {
+    font-size: 18px;
+    color: #332922;
+}
 
 /*お問い合わせ*/
 #contact {
