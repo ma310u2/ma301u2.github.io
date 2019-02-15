@@ -104,7 +104,6 @@ a {
 /*ニュース*/
 #news {
     min-height: 300px;
-    /* margin-left: 20px; */
     padding-top: 120px;
 }
 #news-box {
@@ -123,7 +122,6 @@ a {
 
 /*メニュー*/
 #menu {
-    /* margin: 0 20px; */
     padding-top: 120px;
 }
 .menu-list {
@@ -200,7 +198,6 @@ a {
 
 /*アクセス*/
 #access {
-    /* margin: 0 20px; */
     padding-top: 120px;
     min-height: 80vh;
 }
@@ -226,7 +223,6 @@ a#google-map {
 
 /*お問い合わせ*/
 #contact {
-    /* margin-left: 20px; */
     padding-top: 120px;
 }
 .contact-in {
