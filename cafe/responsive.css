@@ -54,7 +54,7 @@
     /*サブアイコン*/
      #menu-icon1 {
         display: inline-block;
-        padding: 10px 25px;
+        padding: 10px 24px;
         position: absolute;
         right: 0;
         top: 0;
@@ -182,7 +182,7 @@ body{
         }
         ul,
         a {
-            font-size: 18px;
+    
         }
 
         .menu-icon {
