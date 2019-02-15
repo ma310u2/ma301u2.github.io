@@ -137,16 +137,16 @@
     }
     .access-head {
         background-color: #E6D2B8;
-        padding: 10px 25px;
+        padding: 10px 15px;
     }
     .access-content {
-        padding: 10px 25px;
+        padding: 10px 15px;
     }
 
     /*コンタクト*/
     #contact {
         padding-top: 60px;
-        margin: 0 25px;
+        /* margin: 0 25px; */
         min-height: 73vh;
     }
     .contact-area {
