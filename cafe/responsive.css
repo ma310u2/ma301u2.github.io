@@ -107,6 +107,10 @@
         float: none;
     }
     /*メニュー*/
+    .menu-title{
+         top: 80px;
+         font-size: 36px;
+    }
     #menu {
         padding-top: 60px;
     }
