@@ -188,7 +188,15 @@ body{
         .menu-icon {
             font-size: 18px;
         }
-
+        .icon{
+            width:28px
+        }
+        h1 {
+            font-size: 35px;
+         }
+        .menu-price {
+            font-size: 24px;
+        }
         .access-list {
             margin-bottom: 5px
         }
