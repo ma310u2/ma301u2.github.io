@@ -138,9 +138,6 @@
         background-color: #E6D2B8;
         padding: 10px 15px;
     }
-    .access-content {
-        padding: 10px 15px;
-    }
 
     /*コンタクト*/
     #contact {
@@ -204,6 +201,6 @@ body{
         }
 
         .access-content {
-            padding: 5px 25px;
+            padding: 5px 15px;
         }
     }
