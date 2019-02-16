@@ -10,7 +10,8 @@
     width: 100%;
 }
     header {
-        position: static;
+        position: relative;
+        
     }
     #logo {
         padding-top: 50px;
