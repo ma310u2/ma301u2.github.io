@@ -121,6 +121,13 @@
     #menu {
         padding-top: 60px;
     }
+    #drink, #sweet, #food {
+    margin-top: -50px;
+    padding-top: 50px;
+    }
+    #sweet, #food {
+    margin-top: 30px;
+    }
     .menu-list-in {
         width: 100%;
     }
