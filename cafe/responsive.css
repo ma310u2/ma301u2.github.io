@@ -115,7 +115,6 @@
     }
     .menu-list-in1 {
         width: 100%;
-        padding: 0 15px;
     }
     .cake-list {
         width: 100%;
@@ -182,10 +181,9 @@ body{
         }
         ul,
         a {
-            font-size:24px;
-    
+            font-size:24px
         }
-
+    
         .menu-icon {
             font-size: 18px;
         }
@@ -204,9 +202,7 @@ body{
         .access-list {
             margin-bottom: 5px
         }
-        .access-head {
-            padding: 10px 0 10px 25px;
-        }
+
         .access-content {
             padding: 5px 25px;
         }
