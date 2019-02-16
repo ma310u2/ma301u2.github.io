@@ -21,7 +21,6 @@ header {
 h1 {
     font-family: 'Charmonman', cursive;
     font-size: 50px;
-
 }
 
 #logo {
@@ -99,7 +98,7 @@ a {
 }
 
 .menu-img{
-    padding-top: 50px;
+    /* padding-top: 117px; */
 }
 
 /*ニュース*/
@@ -124,6 +123,9 @@ a {
 /*メニュー*/
 #menu {
     padding-top: 120px;
+}
+#menu h1{
+    display:block;
 }
 .menu-list {
     display: flex;
@@ -162,23 +164,20 @@ a {
     justify-content: space-between;
     overflow: hidden;
 }
-#drink{
+#drink,#sweet,#food{
     position:relative;
+    margin-top: -120px;
+    padding-top: 117px;
 }
 
-#sweet{
-    position:relative;
-    margin-top: 50px;
+#sweet,#food{
+    margin-top: 30px;
 }
 
-#food{
-    position:relative;
-    margin-top: 50px;
-}
 .menu-title{
     font-family: 'Charmonman', cursive;
     position:absolute;
-    top: 146px;
+    top: 200px;
     font-size: 40px;
     padding-left: 15px;
 }
