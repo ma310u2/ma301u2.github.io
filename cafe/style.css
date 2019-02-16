@@ -168,10 +168,12 @@ a {
 
 #sweet{
     position:relative;
+    margin-top: 50px;
 }
 
 #food{
     position:relative;
+    margin-top: 50px;
 }
 .menu-title{
     font-family: 'Charmonman', cursive;
