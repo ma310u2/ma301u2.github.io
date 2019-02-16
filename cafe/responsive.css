@@ -104,8 +104,14 @@
     #news {
         padding-top: 60px;
     }
+    #news-box {
+        margin-left: 15px;
+    }
     #news-box dt {
         float: none;
+    }
+    #news-box dd {
+        padding-left: 15px;
     }
     /*メニュー*/
     .menu-title{
@@ -198,9 +204,7 @@ body{
         h1 {
             font-size: 35px;
         }
-        #news-box {
-            margin-left: 15px;
-        }
+
         .menu-price {
             font-size: 24px;
         }
