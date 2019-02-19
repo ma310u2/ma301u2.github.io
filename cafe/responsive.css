@@ -101,6 +101,10 @@
     height: 120px;
 }
     /*ニュース*/
+    #news {
+    padding-top: 49px;
+    margin-top: -49px;
+    }
     #news-box {
         margin-left: 15px;
     }
